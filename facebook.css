@@ -1,0 +1,81 @@
+#header {
+    position: static;
+    background-color: #3b5998;
+    height: 100px;
+}
+
+#logo {
+    color: #fff;
+    position: relative;
+    top: 44px;
+    left: 204px;
+    font-size: xxx-large;
+
+
+}
+
+#login {
+    color: #fff;
+    position: absolute;
+    right: 9%;
+    top: 51px;
+}
+
+#forgget {
+    color: black;
+    text-decoration: none;
+}
+
+#button {
+    color: #fff;
+    background-color: #3b5998;
+}
+
+.left-part {
+    position: relative;
+    left: 195px;
+    top: 50px;
+}
+
+.body {
+    position: relative;
+}
+
+.sin-up {
+    position: relative;
+    right: -913px;
+    top: -262px;
+}
+
+#Mobile {
+    width: 336px;
+    margin-top: 7px;
+}
+
+#pass {
+    padding-right: 177px;
+    margin-top: 7px
+}
+
+#Surname {
+    margin-left: -229px;
+}
+
+#date {
+    margin-top: 5px
+}
+
+.Gender {
+
+    margin-top: 5px
+}
+
+#S-button {
+
+    background-color: green;
+    padding-top: 7px;
+    margin-top: 12px;
+    color: #fff;
+    ;
+    width: 100px;
+}
